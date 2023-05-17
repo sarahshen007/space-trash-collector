@@ -1,5 +1,4 @@
 Sarah Shen
-ss6170
 2/22/23
 Windows 11 Pro 22H2
 NVIDIA T550 Laptop GPU
@@ -44,7 +43,7 @@ Animations are consistent, text is consistent, collisions all look and feel the 
 The UI is clear and minimalistic, intuitive to use.
 
 Project Video
-https://drive.google.com/file/d/1_149fxgiHHDqFP--wmmKZQ8I5tmGcBdr/view?usp=sharing
+https://youtu.be/R2pUEwM0Mdc
 
 Here are all the free assets I used:
 https://assetstore.unity.com/packages/2d/gui/minimalistic-icons-pack-184662
