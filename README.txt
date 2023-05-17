@@ -47,8 +47,6 @@ https://youtu.be/R2pUEwM0Mdc
 
 Here are all the free assets I used:
 https://assetstore.unity.com/packages/2d/gui/minimalistic-icons-pack-184662
-Camera sprite, 
-
 https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503
 https://assetstore.unity.com/packages/3d/vehicles/space/low-poly-spaceships-set-209758
 https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-earth-94673
