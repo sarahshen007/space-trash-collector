@@ -1,0 +1,74 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "04e4c17f-a5bd-4786-bcf4-c3039f2ca4e9",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "af41922c-8335-4203-adf4-558100461bf3",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Thrust",
+                    "type": "Button",
+                    "id": "e72dbdb7-5ae9-4490-ae2f-7b22c0557197",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SwitchCam",
+                    "type": "Button",
+                    "id": "19218a92-c583-4528-957e-29aac0f820f3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "24765d85-9cbd-4b09-91a0-3cbb69a7be30",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f56a80a0-7070-47cd-b456-e6298125c61a",
+                    "path": "<Gamepad>/buttonNorth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Thrust",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fcae3bb8-28f6-4a3a-b6ad-5d6cdcba9b8c",
+                    "path": "<Gamepad>/dpad/down",
+                    "interactions": "Hold",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SwitchCam",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
